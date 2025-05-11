@@ -1,0 +1,8 @@
+kneed
+matplotlib==3.10.0
+numpy<2.0
+pandas==2.2.2
+scikit-learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+umap-learn==0.5.7
